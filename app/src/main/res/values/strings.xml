@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Labs</string>
+    <string-array name="faculties">
+        <item>ФКП</item>
+        <item>ФИТУ</item>
+        <item>ФРЭ</item>
+        <item>ФКСиС</item>
+        <item>ИЭФ</item>
+    </string-array>
+    <string name="name">name</string>
+    <string name="surname">surname</string>
+    <string name="patronymic">patronymic</string>
+    <string name="confirm">confirm</string>
+    <string name="group">group</string>
+    <string name="faculty">faculty</string>
+    <string name="Lab1">Lab 1</string>
+    <string name="Lab2">Lab 2</string>
+    <string name="Lab3">Lab 3</string>
+    <string name="Lab4">Lab 4</string>
+    <string name="Lab5">Lab 5</string>
+    <string name="Lab6">Lab 6</string>
+    <string name="Lab7">Lab 7</string>
+    <string name="Lab8">Lab 8</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="yellow">yellow</string>
+    <string name="img">img</string>
+    <string name="bottonTouchMe">TouchMe</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>
